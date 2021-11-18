@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\eclipse-workspace\HW1117\test_p34"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p31"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p28"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p27"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p26"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p24"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p22"/>
+			<item value="D:\eclipse-workspace\HW1117\test_p20"/>
+			<item value="D:\eclipse-workspace\HW1117\test-p6"/>
+			<item value="D:\eclipse-workspace\HW1117\test-p5"/>
+			<item value="D:\eclipse-workspace\HW1117\test p17"/>
+			<item value="D:\eclipse-workspace\HW1117\test p15"/>
+			<item value="D:\eclipse-workspace\HW1117\test p14"/>
+			<item value="D:\eclipse-workspace\HW1117\test p12"/>
+			<item value="D:\eclipse-workspace\HW1117\test p11"/>
+			<item value="D:\eclipse-workspace\HW1117\test p9"/>
+			<item value="D:\eclipse-workspace\HW1117\test p7"/>
+		</list>
+	</section>
+</section>
